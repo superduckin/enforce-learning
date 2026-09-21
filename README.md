@@ -1,6 +1,12 @@
-# Inforce learning
+# Enforce learning
+---
 
-This repository contains the Inforce learning project.
+**目标**：本仓库存储了Enforce Learning的相应资料和对应的基础代码
+
+**结构**：
+--.Docs #参考文献
+--.DeepRL-Tutorials-master #上手代码
+
 
 ## Local agent setup
 
